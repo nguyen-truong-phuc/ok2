@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2039864771108604342
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5067740936885883621}
+  - component: {fileID: 5806121619677659588}
+  m_Layer: 0
+  m_Name: TowerShops
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5067740936885883621
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2039864771108604342}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -6.60575, y: 0.61503637, z: 0.045040295}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5806121619677659588
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2039864771108604342}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfbaff32d8fd4cf4893967832640124e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  staticTowerPrefab: {fileID: 2516479454536181349, guid: 58e009a5fee67764da70648949759334, type: 3}
+  rotatingTowerPrefab: {fileID: 4525339551709862046, guid: 29e1b1c086304474e8197b8d66cf79c7, type: 3}
+  thirdTowerPrefab: {fileID: 6272841160324035419, guid: bd3299568edeb0c44a5b56351260375c, type: 3}
+  goldText: {fileID: 0}
+  infoText: {fileID: 0}
+  buyStaticTowerButton: {fileID: 0}
+  buyRotatingTowerButton: {fileID: 0}
+  buyThirdTowerButton: {fileID: 0}
+  towerTilemap: {fileID: 0}
+  upgradeButton: {fileID: 0}
+  sellButton: {fileID: 0}
