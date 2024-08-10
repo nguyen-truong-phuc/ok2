@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: "Assets/D\u1EF1 an 1/D\u1EF1 an 1/Assets/M\xE1p/Level.unity"
+    guid: 1535168d2ecf98840bc0d6f958e435fd
+  - enabled: 1
+    path: "Assets/D\u1EF1 an 1/D\u1EF1 an 1/Assets/M\xE1p/Map 01.unity"
+    guid: c1746da5f58745f4cb8d1aca32abe829
+  - enabled: 1
+    path: "Assets/D\u1EF1 an 1/D\u1EF1 an 1/Assets/M\xE1p/Map 02.unity"
+    guid: 4a59d498d23625147abdb11b1b0db641
+  - enabled: 1
+    path: "Assets/D\u1EF1 an 1/D\u1EF1 an 1/Assets/M\xE1p/Map 03.unity"
+    guid: edb56c649647c4d41b8e0deeaa6e10d6
+  - enabled: 1
+    path: "Assets/D\u1EF1 an 1/D\u1EF1 an 1/Assets/M\xE1p/Menu.unity"
+    guid: 6a3ff3c0fbea277449153641aa9a2db6
+  - enabled: 1
+    path: "Assets/D\u1EF1 an 1/D\u1EF1 an 1/Assets/M\xE1p/Login.unity"
+    guid: b960549d74f2f564cb2838516e5d4ae2
+  - enabled: 1
+    path: "Assets/D\u1EF1 an 1/D\u1EF1 an 1/Assets/M\xE1p/Register.unity"
+    guid: d635b166a8d9334479201a6034f61ed6
+  - enabled: 1
+    path: "Assets/D\u1EF1 an 1/D\u1EF1 an 1/Assets/M\xE1p/WelcomeScreen.unity"
+    guid: 9584bc8ee4b06404d8a669f0a3d0d1cd
+  m_configObjects: {}

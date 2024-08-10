@@ -6,6 +6,18 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/dangky.unity
+    guid: c82a4eea6e5cbbd4c89eaed1d989be21
+  - enabled: 1
+    path: Assets/Scenes/dangnhap.unity
+    guid: cdcff3144c2a75240bc605475ed8764d
+  - enabled: 1
     path: Assets/Scenes/Map 1.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    guid: d0464ec64ec7c244489e56ed17f22515
+  - enabled: 1
+    path: Assets/Scenes/Map 2.unity
+    guid: 3ee0b3afeb244e54586e166bf8768af0
+  - enabled: 1
+    path: Assets/Scenes/Map 3.unity
+    guid: 3c232cae2f2ed544ea98758746b6cbb3
   m_configObjects: {}
